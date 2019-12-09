@@ -1,4 +1,4 @@
-# HabiTech
+# Call for Papers
 Text goes here
 
 * bullet 1
