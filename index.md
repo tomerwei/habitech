@@ -99,4 +99,4 @@ UNStudio, founded in 1988 by Ben van Berkel and Caroline Bos, is an internationa
 Contact points: [Ruth Dalton](mailto:r.dalton1@lancaster.ac.uk) & [Jakub Krukar](mailto:krukar@uni-muenster.de).
 
 ## Institutions
-![alt text](logos/logo-ifgi-text-de.png "Institute for Geoinformatics, University of Muenster, Germany")
+<img src="logos/ifgi.jpg" width="200" />
