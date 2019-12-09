@@ -6,7 +6,7 @@ A one-day workshop [at CHI2020](https://chi2020.acm.org/accepted-workshops/).
 
 Download full workshop paper here.
 
-Submission deadline: **February 11th, 2020** in [CHI Extended Abstract format](https://chi2020.acm.org/authors/chi-proceedings-format/).
+Submission deadline: **February 11th, 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
 
 ## Call for Papers
 We invite submissions for a one-day workshop to help define a new research area – the building-level counterpoint to digital civics - how do new technologies enable and empower the inhabitants of a multi- occupancy buildings? This workshop will gather interdisciplinary experts in HCI, design, architecture, data ethics, and cognitive science to reflect on the role of HCI in cultivating digital civics inside buildings.
