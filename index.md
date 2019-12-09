@@ -7,15 +7,15 @@ Text goes here
 
 
 ## Schedule (tentative)
-* Welcome: 09:05 to 09:10
-* 20 x rapid fire presentations: 09:10 to 11:00
-* *Coffee break* (‘domain-dotting’ activity over coffee): 11:00 to 11:30
-* Keynote, Q&A: 11:30 to 12:30
-* *Lunch*: 12:30 to 13:30
-* Constructive controversy exercise: 13:30 to 14:30
-* *Afternoon coffee break*: 14:30 to 15:00
-* Mind-mapping/mapping the domain: 15:00 to 16:00
-* Reporting back and discussion about future plans: 16:00 to 17:00 (and close)
+* 09:05 - 09:10: Welcome
+* 09:10 - 11:00: 20 x rapid fire presentations
+* *11:00 - 11:30: Coffee break (‘domain-dotting’ activity over coffee)*
+* 11:30 - 12:30: Keynote + Q&A
+* *12:30 - 13:30: Lunch*
+* 13:30 - 14:30: Constructive controversy exercise
+* *14:30 - 15:00: Afternoon coffee break*
+* 15:00 - 16:00: Mind-mapping/mapping the domain
+* 16:00 - 17:00: Reporting back and discussion about future plans
 
 ## Organizers
 ## Institutions
