@@ -90,3 +90,4 @@ displays, a digital wine shop, information sculptures, table-sized multitouch gr
 
 ## Institutions
 <img src="logos/ifgi.jpg" width="200" />
+<img src="logos/umu logo.jpg" width="200" />
