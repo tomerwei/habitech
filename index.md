@@ -19,6 +19,9 @@ Text goes here
 * 15:00 - 16:00: Mind-mapping/mapping the domain
 * 16:00 - 17:00: Reporting back and discussion about future plans
 
+## Accepted papers
+...will be posted here
+
 ## Organizers
 **Professor Ruth Conroy Dalton**, University of Lancaster, UK [(www)](https://www.lancaster.ac.uk/study/why-lancaster/architecture-meet-the-team/)
 
@@ -55,8 +58,3 @@ Contact points: [Ruth Dalton](mailto:r.dalton1@lancaster.ac.uk) & [Jakub Krukar]
 
 ## Institutions
 ![alt text](logos/logo-ifgi-text-de.png "Institute for Geoinformatics, University of Muenster, Germany")
-
-
-
-## Accepted papers
-...will be posted here
