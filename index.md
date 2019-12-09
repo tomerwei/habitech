@@ -25,9 +25,10 @@ Ruth is Lancaster University’s Inaugural Professor of Architecture. Her resear
 **Professor Christoph Hölscher**
 Christoph has been Professor of Cognitive Science at ETH Zurich since 2013. Currently a member of the Singapore-ETH Future Cities Laboratory, he is also the programme director of the Future Resilient Systems programme - the second programme at the centre. His areas of research include wayfinding, spatial cognition & usability research for architectural design, HCI, user modelling & personalisation, information retrieval & web search behaviour.
 
-<img src="faces/Jakub.jpg" width="200" height="200" />
+<img src="faces/Jakub.jpg" width="100" />
 
 **Dr Jakub Krukar**
+
 Jakub is a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think about, think in, and think with space. He is a psychologist by training, and he applies psychological methods in the fields of geoinformatics, architecture, and human-computer interaction. [(website)](https://krukar.staff.ifgi.de/)
 
 
