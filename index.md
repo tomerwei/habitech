@@ -19,13 +19,19 @@ Text goes here
 * 16:00 - 17:00: Reporting back and discussion about future plans
 
 ## Organizers
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 **Professor Ruth Conroy Dalton**
 Ruth is Lancaster University’s Inaugural Professor of Architecture. Her research interests are centred on the relationship between the spatial layout of buildings and environments and their effect on how people understand and interact in those spaces. She is an expert in space syntax analysis and using virtual environments as a method for researching human factors in the built environment.
 
 **Professor Christoph Hölscher**
 Christoph has been Professor of Cognitive Science at ETH Zurich since 2013. Currently a member of the Singapore-ETH Future Cities Laboratory, he is also the programme director of the Future Resilient Systems programme - the second programme at the centre. His areas of research include wayfinding, spatial cognition & usability research for architectural design, HCI, user modelling & personalisation, information retrieval & web search behaviour.
-
-<img src="faces/Jakub.jpg" width="100" />
 
 **Dr Jakub Krukar**
 
