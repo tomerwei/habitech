@@ -8,6 +8,9 @@ Text goes here
 
 # Organizers
 ## Institution
+![alt text](logos/logo-ifgi-text-de.png "Institute for Geoinformatics, University of Muenster, Germany")
+
+
 
 # Accepted papers
 ...will be posted here
