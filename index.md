@@ -89,5 +89,5 @@ displays, a digital wine shop, information sculptures, table-sized multitouch gr
 **UNStudio Architects** [(www)](https://www.unstudio.com/). UNStudio, founded in 1988 by Ben van Berkel and Caroline Bos, is an international architectural design network with four full-service international offices in Amsterdam, Shanghai, Hong Kong and Frankfurt. They specialise in architecture, interior architecture, product design, urban development and infrastructural projects.
 
 ## Institutions
-<img src="logos/ifgi.jpg" width="300" /> <img src="logos/umu logo.jpg" width="300" />
+<img src="logos/ifgi.jpg" width="300" />        <img src="logos/umu logo.jpg" width="300" />
 
