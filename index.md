@@ -25,7 +25,8 @@ privacy-by-design.
 
 
 The due date for submissions is (on or before) **February 11th, 2020**.
-The submission site can be found at www.answersonapostcard.com. Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. 
+
+The submission site can be found at [answersonapostcardplease.com](http://answersonapostcardplease.com/). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. 
 Participants notified of acceptance: (on or before) **February 28th, 2020**. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference. Participants will be selected based on their prior experience, expressed interest in the workshop and the quality of their submissions. We will focus on recruiting from a diverse group of participants.
 
 
