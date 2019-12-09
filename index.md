@@ -8,6 +8,8 @@ Download full workshop paper here.
 
 Submission deadline: **February 11th, 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
 
+Contact & submission points: [Ruth Dalton](mailto:r.dalton1@lancaster.ac.uk) & [Jakub Krukar](mailto:krukar@uni-muenster.de).
+
 ## Call for Papers
 We invite submissions for a one-day workshop to help define a new research area – the building-level counterpoint to digital civics - how do new technologies enable and empower the inhabitants of a multi- occupancy buildings? This workshop will gather interdisciplinary experts in HCI, design, architecture, data ethics, and cognitive science to reflect on the role of HCI in cultivating digital civics inside buildings.
 Papers should be 2-4 pages long in the [CHI Extended Abstract format](https://chi2020.acm.org/authors/chi-proceedings-format/) and may address any subjects related to the topic including but not limited to:
@@ -82,9 +84,6 @@ displays, a digital wine shop, information sculptures, table-sized multitouch gr
 
 
 **UNStudio Architects** [(www)](https://www.unstudio.com/). UNStudio, founded in 1988 by Ben van Berkel and Caroline Bos, is an international architectural design network with four full-service international offices in Amsterdam, Shanghai, Hong Kong and Frankfurt. They specialise in architecture, interior architecture, product design, urban development and infrastructural projects.
-
-
-Contact points: [Ruth Dalton](mailto:r.dalton1@lancaster.ac.uk) & [Jakub Krukar](mailto:krukar@uni-muenster.de).
 
 ## Institutions
 <img src="logos/ifgi.jpg" width="200" />
