@@ -18,7 +18,7 @@ Text goes here
 * Reporting back and discussion about future plans: 16:00 to 17:00 (and close)
 
 ## Organizers
-# Institution
+## Institutions
 ![alt text](logos/logo-ifgi-text-de.png "Institute for Geoinformatics, University of Muenster, Germany")
 
 
