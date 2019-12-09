@@ -4,7 +4,7 @@ A one-day workshop [at CHI2020](https://chi2020.acm.org/accepted-workshops/).
 
 25th or 26th of April 2020, Honolulu, Hawai'i, USA.
 
-Download full workshop paper here.
+Download the full workshop paper here.
 
 Submission deadline: **February 11th, 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
 
