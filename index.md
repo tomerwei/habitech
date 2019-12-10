@@ -92,9 +92,9 @@ displays, a digital wine shop, information sculptures, table-sized multitouch gr
 <div style="text-align:center">
 <img src="logos/Lancaster.jpg" width="400" />
 
-<img src="logos/fcl.png" width="400" />
-
 <img src="logos/sec.png" width="400" />
+
+<img src="logos/fcl.png" width="400" />
 
 <img src="logos/eth.jpg" width="400" />
 
