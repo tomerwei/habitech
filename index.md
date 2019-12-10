@@ -90,7 +90,7 @@ displays, a digital wine shop, information sculptures, table-sized multitouch gr
 
 ## Institutions
 <img src="logos/Lancaster.jpg" width="300" />
-<img src="logos/fcl.jpg" width="300" /> <img src="logos/sec.jpg" width="300" /> <img src="logos/eth.jpg" width="300" />
+<img src="logos/fcl.png" width="300" /> <img src="logos/sec.png" width="300" /> <img src="logos/eth.jpg" width="300" />
 <img src="logos/ifgi.jpg" width="300" />
 <img src="logos/Northumbria.jpg" width="300" />
 <img src="logos/umu logo.jpg" width="300" />
