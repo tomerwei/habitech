@@ -25,7 +25,7 @@ building users.
 * Maintaining data privacy inside buildings, including
 privacy-by-design.
 
-
+Please see the table for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts.
 The due date for submissions is (on or before) **February 11th, 2020**.
 
 The submission site can be found at [answersonapostcardplease.com](http://answersonapostcardplease.com/). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. 
