@@ -59,7 +59,7 @@ city data from sensors (not always volunteered) | building data from sensors (no
 * 09:05 - 09:10: Welcome
 * 09:10 - 11:00: 20 x rapid fire presentations
 * 11:00 - 11:30: *Coffee break (‘domain-dotting’ activity over coffee)*
-* 11:30 - 12:30: Keynote + Q&A
+* 11:30 - 12:30: Christian Veddeler's Keynote + Q&A
 * 12:30 - 13:30: *Lunch*
 * 13:30 - 14:30: Constructive controversy exercise
 * 14:30 - 15:00: *Afternoon coffee break*
@@ -86,7 +86,7 @@ displays, a digital wine shop, information sculptures, table-sized multitouch gr
 **Professor Mikael Wiberg**, *Umeå University, Sweden [(website)](https://www.umu.se/personal/mikael-wiberg/)*. Mikael is a Professor of Informatics at Umeå university, Sweden. He is editor for the Architecture & Interaction forum for ACM Interactions, and his research interests includes a focus on interaction design at the scale of architecture, an interest in the materiality of interaction, and an interest in concept-driven design methods. He is the author of a recent book, "The Materiality of Interaction - Notes on the Materials of Interaction Design" (MIT Press, Jan 2018).
 
 
-**UNStudio Architects** *[(website)](https://www.unstudio.com/)*. UNStudio, founded in 1988 by Ben van Berkel and Caroline Bos, is an international architectural design network with four full-service international offices in Amsterdam, Shanghai, Hong Kong and Frankfurt. They specialise in architecture, interior architecture, product design, urban development and infrastructural projects.
+**Christian Veddeler** *Architect, Amsterdam*. Christian Veddeler is an architect based in Amsterdam. Currently he is a strategic advisor to UNStudio, where until recently he has performed as a Director being responsible for numerous international projects, as Frankfurt FOUR currently under construction. Christian has a focus on system thinking in architecture and was in charge of several award-winning projects, amongst others the Campus for the Singapore University of Technology and Design.
 
 ## Institutions
 <img src="logos/Imagination.jpg" width="300" />
