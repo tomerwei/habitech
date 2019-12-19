@@ -2,7 +2,7 @@
 ## Inhabiting Buildings, Data & Technology
 A one-day workshop [at CHI2020](https://chi2020.acm.org/accepted-workshops/).
 
-25th or 26th of April 2020, Honolulu, Hawai'i, USA.
+25th or 26th of April 2020, Honolulu, Hawai'i, USA (exact date TBC).
 
 Download the full workshop paper here.
 
