@@ -4,7 +4,7 @@ A one-day workshop [at CHI2020](https://chi2020.acm.org/accepted-workshops/).
 
 25th or 26th of April 2020, Honolulu, Hawai'i, USA (exact date TBC).
 
-Download the full workshop paper here.
+Download the [full workshop paper here](https://answersonapostcardplease.com/SIGCHI-CHI20-HabiTech_13.12.2020.pdf).
 
 Submission deadline: **February 11th, 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
 
@@ -29,7 +29,7 @@ Please see the table for a preliminary mapping of relevant concepts against thos
 
 The due date for submissions is (on or before) **February 11th, 2020**.
 
-The submission site can be found at [answersonapostcardplease.com](http://answersonapostcardplease.com/). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. 
+The submission site can be found at [answersonapostcardplease.com](https://answersonapostcardplease.com/). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. 
 Participants notified of acceptance: (on or before) **February 28th, 2020**. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference. Participants will be selected based on their prior experience, expressed interest in the workshop and the quality of their submissions. We will focus on recruiting from a diverse group of participants.
 
 
