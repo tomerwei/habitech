@@ -4,7 +4,7 @@ A one-day workshop [at CHI2020](https://chi2020.acm.org/accepted-workshops/).
 
 26th of April 2020, Honolulu, Hawai'i, USA.
 
-Download the [full workshop paper here](https://answersonapostcardplease.com/SIGCHI-CHI20-HabiTech.pdf).
+Download the [full workshop paper here](https://answersonapostcardplease.com/SIGCHI-CHI2020-HabiTech.pdf).
 
 Submission deadline: **February 11th, 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
 
