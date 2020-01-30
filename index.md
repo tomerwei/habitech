@@ -9,6 +9,7 @@ Download the [full workshop paper here](https://answersonapostcardplease.com/SIG
 Submission deadline: **February 11th, 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
 
 Contact points: [Ruth Dalton](mailto:r.dalton1@lancaster.ac.uk) & [Jakub Krukar](mailto:krukar@uni-muenster.de).
+
 **Submissions via email to: [Jakub Krukar](mailto:krukar@uni-muenster.de).**
 
 <img src="figures/fig1.png" />
@@ -29,6 +30,7 @@ privacy-by-design.
 Please see the table for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts.
 
 The due date for submissions is (on or before) **February 11th, 2020**.
+
 **Submissions via email to: [Jakub Krukar](mailto:krukar@uni-muenster.de).**
 
 Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. 
