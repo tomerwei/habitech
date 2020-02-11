@@ -4,7 +4,7 @@ A one-day workshop [at CHI2020](https://chi2020.acm.org/accepted-workshops/).
 
 26th of April 2020, Honolulu, Hawai'i, USA.
 
-Submission deadline: ~~February 11th, 2020~~ **extended to February 16th 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
+**Submission deadline:** ~~February 11th, 2020~~ **extended to February 16th 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
 
 **Submissions via email to: [Jakub Krukar](mailto:krukar@uni-muenster.de).**
 
@@ -29,7 +29,7 @@ privacy-by-design.
 
 Please see the table for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts.
 
-Submission deadline: ~~February 11th, 2020~~ **extended to February 16th 2020**.
+**Submission deadline:** ~~February 11th, 2020~~ **extended to February 16th 2020**.
 
 **Submissions via email to: [Jakub Krukar](mailto:krukar@uni-muenster.de).**
 
