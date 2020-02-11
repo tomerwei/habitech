@@ -4,13 +4,13 @@ A one-day workshop [at CHI2020](https://chi2020.acm.org/accepted-workshops/).
 
 26th of April 2020, Honolulu, Hawai'i, USA.
 
-Download the [full workshop paper here](https://answersonapostcardplease.com/SIGCHI-CHI2020-HabiTech.pdf).
+Submission deadline: ~~February 11th, 2020~~ **extended to February 16th 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
 
-Submission deadline: **February 11th, 2020** [(CHI Extended Abstract format)](https://chi2020.acm.org/authors/chi-proceedings-format/).
+**Submissions via email to: [Jakub Krukar](mailto:krukar@uni-muenster.de).**
 
 Contact points: [Ruth Dalton](mailto:r.dalton1@lancaster.ac.uk) & [Jakub Krukar](mailto:krukar@uni-muenster.de).
 
-**Submissions via email to: [Jakub Krukar](mailto:krukar@uni-muenster.de).**
+Download the [full workshop paper here](https://answersonapostcardplease.com/SIGCHI-CHI2020-HabiTech.pdf).
 
 <img src="figures/fig1.png" />
 
@@ -29,7 +29,7 @@ privacy-by-design.
 
 Please see the table for a preliminary mapping of relevant concepts against those already established in digital civics. Submissions should refer to one or more of these concepts.
 
-The due date for submissions is (on or before) **February 11th, 2020**.
+Submission deadline: ~~February 11th, 2020~~ **extended to February 16th 2020**.
 
 **Submissions via email to: [Jakub Krukar](mailto:krukar@uni-muenster.de).**
 
